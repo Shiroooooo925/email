@@ -1,7 +1,7 @@
 [
     {
-		"prompt": "Test question <span>1234</span>. Tell <b>me</b> something.",
-		"answer": "This is the answer.",
+		"prompt": "help",
+		"answer": "ok",
 		"link": "https://google.com"
 	},
     {
